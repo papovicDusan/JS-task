@@ -4,14 +4,13 @@ const newNumbers=numbers.map(x=>x*x);
 console.log('newNumbers',newNumbers);
 
 // task 2
-IIFE = (x,y) =>{
+(IIFE = (x,y) =>{
     let sum= x+y;
     console.log('sum',sum);
-}
-IIFE(5,10);
+})(5,10);
 
 //task 3
 
 timesTwo=(number)=> number*2;
 let numberTimesTwo=timesTwo(10);
-console.log(numberTimesTwo);
+console.log('numberTimesTwo',numberTimesTwo);
