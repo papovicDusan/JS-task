@@ -1,6 +1,6 @@
-[04/02/2022 09:38:47] Kreiran pacijent  Marko
-[04/02/2022 09:38:47] Kreiran doktor  Ivan
-[04/02/2022 09:38:47] Izabrao doktora  Marko
-[04/02/2022 09:38:47] Zakazao pregled doktor  Ivan
-[04/02/2022 09:38:47] Zakazao pregled doktor  Ivan
-[04/02/2022 09:38:47] Obavljen pregled  Marko
+[04/02/2022 12:08:01] Kreiran pacijent  Marko
+[04/02/2022 12:08:01] Kreiran doktor  Ivan
+[04/02/2022 12:08:01] Izabrao doktora  Marko
+[04/02/2022 12:08:01] Zakazao pregled doktor  Ivan
+[04/02/2022 12:08:01] Zakazao pregled doktor  Ivan
+[04/02/2022 12:08:01] Obavljen pregled  Marko
